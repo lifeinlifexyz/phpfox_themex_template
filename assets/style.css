@@ -1,0 +1,89 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?6i7b9v');
+  src:  url('fonts/icomoon.eot?6i7b9v#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?6i7b9v') format('truetype'),
+    url('fonts/icomoon.woff?6i7b9v') format('woff'),
+    url('fonts/icomoon.svg?6i7b9v#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-olymp-post-icon:before {
+  content: "\e914";
+}
+.icon-olymp-comment-icon:before {
+  content: "\e913";
+}
+.icon-olymp-close-icon:before {
+  content: "\e900";
+}
+.icon-olymp-settings-icon:before {
+  content: "\e901";
+}
+.icon-olymp-photos-icon:before {
+  content: "\e902";
+}
+.icon-olymp-share-icon:before {
+  content: "\e903";
+}
+.icon-olymp-like-post-icon:before {
+  content: "\e904";
+}
+.icon-olymp-small-pin-icon:before {
+  content: "\e905";
+}
+.icon-olymp-computer-icon:before {
+  content: "\e906";
+}
+.icon-olymp-camera-icon:before {
+  content: "\e907";
+}
+.icon-olymp-three-dots-icon:before {
+  content: "\e908";
+}
+.icon-olymp-multimedia-icon:before {
+  content: "\e909";
+}
+.icon-olymp-status-icon:before {
+  content: "\e90a";
+}
+.icon-olymp-newsfeed-icon:before {
+  content: "\e90b";
+}
+.icon-olymp-logout-icon:before {
+  content: "\e90c";
+}
+.icon-olymp-star-icon:before {
+  content: "\e90d";
+}
+.icon-olymp-menu-icon:before {
+  content: "\e90e";
+}
+.icon-olymp-dropdown-arrow-icon:before {
+  content: "\e90f";
+}
+.icon-olymp-thunder-icon:before {
+  content: "\e910";
+}
+.icon-olymp-chat---messages-icon:before {
+  content: "\e911";
+}
+.icon-olymp-happy-face-icon:before {
+  content: "\e912";
+}
